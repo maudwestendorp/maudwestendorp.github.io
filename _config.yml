@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Maud Westendorp"
-  avatar           : "https://github.com/maudwestendorp/maudwestendorp.github.io/blob/master/profile.png"
+  avatar           : "profile.png"
   bio              : "Linguistics PhD at UiT The Arctic University of Norway, interested in syntactic variation and change."
   location         : "Tromsø, Norway"
   employer         :
