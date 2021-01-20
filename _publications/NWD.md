@@ -12,4 +12,4 @@ In this article, we present the Nordic Word order Database (NWD), with a focus o
 
 [Download paper here](https://journals.uio.no/NALS/article/view/7529)
 
-Recommended citation: Lundquist, Björn, Ida Larsson, Maud Westendorp, Eirik Tengesdal & Anders Nøklestad. 2019. Nordic Word order Database: motivations, methods, material and infrastructure. <i>Nordic Atlas of Language Structures (NALS) Journal</i> 4(1): 1–33.
+Recommended citation: Lundquist, Björn, Ida Larsson, **Maud Westendorp**, Eirik Tengesdal & Anders Nøklestad. 2019. Nordic Word order Database: motivations, methods, material and infrastructure. <i>Nordic Atlas of Language Structures (NALS) Journal</i> 4(1): 1–33.
