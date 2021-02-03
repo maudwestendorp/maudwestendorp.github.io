@@ -12,4 +12,4 @@ In this paper I use the framework of Functional Discourse Grammar to compare the
 
 [Download paper here](http://www.linguisticsinamsterdam.nl/download?type=document&identifier=649532)
 
-<sub><sup>Recommended citation: **Maud Westendorp**. 2018. Transparency and language acquisition of Scandinavian. <i>Linguistics in Amsterdam</i> 11(2): 59–88.</sup></sub>
+Recommended citation: **Maud Westendorp**. 2018. Transparency and language acquisition of Scandinavian. <i>Linguistics in Amsterdam</i> 11(2): 59–88.
