@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## [Verb placement in embedded sentences in Faroese](https://journals.uio.no/NALS/article/view/8525/7491)  
-##### Published in *Nordic Atlas of Language Structures (NALS) Journal*, 2020  
+### Published in *Nordic Atlas of Language Structures (NALS) Journal*, 2020  
 I present data from the Nordic Word order Database (NWD) on word order in Faroese embedded clauses. I discuss the methods used in the data elicitation, data analysis, and present a first overview of the patterns in the dataset. 
   
 Westendorp, Maud. 2020. "Verb placement in embedded sentences in Faroese." *Nordic Atlas of Language Structures (NALS) Journal* 5(1): 28–42. [https://doi.org/10.5617/nals.8525](https://doi.org/10.5617/nals.8525)  
