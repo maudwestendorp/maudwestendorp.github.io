@@ -5,14 +5,14 @@ excerpt: "Publications"
 author_profile: true
 ---
 
-### [Verb placement in embedded sentences in Faroese](https://journals.uio.no/NALS/article/view/8525/7491)  
+## [Verb placement in embedded sentences in Faroese](https://journals.uio.no/NALS/article/view/8525/7491)  
 Westendorp, Maud. 2020. "Verb placement in embedded sentences in Faroese." *Nordic Atlas of Language Structures (NALS) Journal* 5(1): 28–42.  https://doi.org/10.5617/nals.8525  
   
 I present data from the Nordic Word order Database (NWD) on word order in Faroese embedded clauses. I discuss the methods used in the data elicitation, data analysis, and present a first overview of the patterns in the dataset.  
  
 
   
-### [Code-switching alone cannot explain intraspeaker syntactic variability: Evidence from a spoken elicitation experiment.](https://doi.org/10.1017/S0332586520000190)  
+## [Code-switching alone cannot explain intraspeaker syntactic variability: Evidence from a spoken elicitation experiment.](https://doi.org/10.1017/S0332586520000190)  
 Lundquist, Björn, Maud Westendorp, & Bror-Magnus S. Strand (2020). "Code-switching alone cannot explain intraspeaker syntactic variability: Evidence from a spoken elicitation experiment." *Nordic Journal of Linguistics*, 43(3), 249-287. https://doi.org/10.1017/S0332586520000190  
   
 In this paper we investigate the role of register/dialect mixing in accounting for syntactic variation within speakers.  
