@@ -6,28 +6,29 @@ author_profile: true
 ---
 
 ## [Verb placement in embedded sentences in Faroese](https://journals.uio.no/NALS/article/view/8525/7491)  
-Westendorp, Maud. 2020. "Verb placement in embedded sentences in Faroese." *Nordic Atlas of Language Structures (NALS) Journal* 5(1): 28–42.  https://doi.org/10.5617/nals.8525  
+##### Published in *Nordic Atlas of Language Structures (NALS) Journal*, 2020  
+I present data from the Nordic Word order Database (NWD) on word order in Faroese embedded clauses. I discuss the methods used in the data elicitation, data analysis, and present a first overview of the patterns in the dataset. 
   
-I present data from the Nordic Word order Database (NWD) on word order in Faroese embedded clauses. I discuss the methods used in the data elicitation, data analysis, and present a first overview of the patterns in the dataset.  
- 
+Westendorp, Maud. 2020. "Verb placement in embedded sentences in Faroese." *Nordic Atlas of Language Structures (NALS) Journal* 5(1): 28–42. [https://doi.org/10.5617/nals.8525](https://doi.org/10.5617/nals.8525)  
+    
 
-  
+
 ## [Code-switching alone cannot explain intraspeaker syntactic variability: Evidence from a spoken elicitation experiment.](https://doi.org/10.1017/S0332586520000190)  
-Lundquist, Björn, Maud Westendorp, & Bror-Magnus S. Strand (2020). "Code-switching alone cannot explain intraspeaker syntactic variability: Evidence from a spoken elicitation experiment." *Nordic Journal of Linguistics*, 43(3), 249-287. https://doi.org/10.1017/S0332586520000190  
+Lundquist, Björn, Maud Westendorp, & Bror-Magnus S. Strand (2020). "Code-switching alone cannot explain intraspeaker syntactic variability: Evidence from a spoken elicitation experiment." *Nordic Journal of Linguistics*, 43(3), 249-287. [https://doi.org/10.1017/S0332586520000190](https://doi.org/10.1017/S0332586520000190)  
   
 In this paper we investigate the role of register/dialect mixing in accounting for syntactic variation within speakers.  
   
 
 
 ## [Nordic Word order Database: motivations, methods, material and infrastructure](https://journals.uio.no/NALS/article/view/7529/6891)  
-Lundquist, Björn, Ida Larsson, Maud Westendorp, Eirik Tengesdal & Anders Nøklestad. 2019. "Nordic Word order Database: motivations, methods, material and infrastructure." *Nordic Atlas of Language Structures (NALS) Journal* 4(1): 1–33. https://doi.org/10.5617/nals.7529   
+Lundquist, Björn, Ida Larsson, Maud Westendorp, Eirik Tengesdal & Anders Nøklestad. 2019. "Nordic Word order Database: motivations, methods, material and infrastructure." *Nordic Atlas of Language Structures (NALS) Journal* 4(1): 1–33. [https://doi.org/10.5617/nals.7529](https://doi.org/10.5617/nals.7529)   
     
 In this article, we present the Nordic Word order Database (NWD), with a focus on the rationale behind it, the methods used in data elicitation, data analysis and the empirical scope of the database.  
    
 
 
 ## [New methodologies in the NDS: word order variation in Norwegian wh-questions](https://journals.uio.no/NALS/article/view/6533/5507)  
-Westendorp, Maud. 2018. "New methodologies in the NDS: word order variation in Norwegian wh-questions." *Nordic Atlas of Language Structures (NALS) Journal* 3(1): 1–18. https://doi.org/10.5617/nals.6533  
+Westendorp, Maud. 2018. "New methodologies in the NDS: word order variation in Norwegian wh-questions." *Nordic Atlas of Language Structures (NALS) Journal* 3(1): 1–18. [https://doi.org/10.5617/nals.6533](https://doi.org/10.5617/nals.6533)  
   
 This paper is about V2/non-V2 variation in wh-questions across Norwegian dialects.  
   
