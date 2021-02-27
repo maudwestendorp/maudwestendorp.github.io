@@ -7,11 +7,11 @@ author_profile: true
 
 ### 2021
 - **Maud Westendorp**. ‘Deviations from asymmetric V2 in Norwegian: code-switching or variable rules?’. [5th Norwegian Graduate Student Conference in Linguistics and Philology](https://noslip-2021.jimdosite.com), March 11-12 2021.  
-- **Maud Westendorp** and Björn Lundquist. ‘The presence of light objects affects variable verb and subject placement in North Germanic’. [43. Jahrestagung der DGfS "Modell und Evidenz", Universität Freiburg im Breisgau](https://www.linguistik.uni-freiburg.de/dgfs-jahrestagung-2021), February 23-26 2021. [slides](https://www.dropbox.com/s/cz0q1h8d024o0tg/DGfS_ObjectShiftReflexives.pdf?dl=0)  
+- **Maud Westendorp** and Björn Lundquist. ‘The presence of light objects affects variable verb and subject placement in North Germanic’. [43. Jahrestagung der DGfS "Modell und Evidenz", Universität Freiburg im Breisgau](https://www.linguistik.uni-freiburg.de/dgfs-jahrestagung-2021), February 23-26 2021. [[slides]](https://www.dropbox.com/s/cz0q1h8d024o0tg/DGfS_ObjectShiftReflexives.pdf?dl=0)  
 
 ### 2020
-- **Maud Westendorp**. ‘Verbplassering i underordnede setninger i færøysk’. Miniworkshop om variation och förändring, University of Oslo/Østfold University College, October 22.[slides](https://www.dropbox.com/s/70pex8tvfe8b2pl/VCVPminiworkshop.pdf?dl=0)  
-- Björn Lundquist and **Maud Westendorp**. ‘Object shift feeds variable verb and subject placement: implications for linearization and production planning’. [Linearising Constituents Across Domains](https://bled.institute/events/lcad/), Bled, Slovenia, October 15-16. [slides](https://t.co/Zfhicv8J91?amp=1)  
+- **Maud Westendorp**. ‘Verbplassering i underordnede setninger i færøysk’. Miniworkshop om variation och förändring, University of Oslo/Østfold University College, October 22. [[slides]](https://www.dropbox.com/s/70pex8tvfe8b2pl/VCVPminiworkshop.pdf?dl=0)  
+- Björn Lundquist and **Maud Westendorp**. ‘Object shift feeds variable verb and subject placement: implications for linearization and production planning’. [Linearising Constituents Across Domains](https://bled.institute/events/lcad/), Bled, Slovenia, October 15-16. [[slides]](https://t.co/Zfhicv8J91?amp=1)  
 
 ### 2019
 - Björn Lundquist and **Maud Westendorp**. ‘On the subtle and ephemeral effects of reflexives on verb and subject placement’. [Workshop on Variation and Change in the Verb Phrase](https://www.hf.uio.no/iln/forskning/aktuelt/arrangementer/konferanser/2019/Workshop-Variation-and-Change/program/), University of Oslo, December 5-6.  
