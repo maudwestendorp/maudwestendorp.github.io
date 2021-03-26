@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2021
-- **Maud Westendorp**. ‘Deviations from asymmetric V2 in Norwegian: code-switching or variable rules?’. [5th Norwegian Graduate Student Conference in Linguistics and Philology](https://noslip-2021.jimdosite.com), March 11-12 2021.  
+- **Maud Westendorp**. ‘Deviations from asymmetric V2 in Norwegian: code-switching or variable rules?’. [5th Norwegian Graduate Student Conference in Linguistics and Philology](https://noslip-2021.jimdosite.com), March 11-12 2021. [[slides]](https://www.dropbox.com/s/l51cz9a3p7q0cdv/NoSLiP_VariableRules.pdf?dl=0)    
 - **Maud Westendorp** and Björn Lundquist. ‘The presence of light objects affects variable verb and subject placement in North Germanic’. [43. Jahrestagung der DGfS "Modell und Evidenz", Universität Freiburg im Breisgau](https://www.linguistik.uni-freiburg.de/dgfs-jahrestagung-2021), February 23-26 2021. [[slides]](https://www.dropbox.com/s/cz0q1h8d024o0tg/DGfS_ObjectShiftReflexives.pdf?dl=0)  
 
 ### 2020
