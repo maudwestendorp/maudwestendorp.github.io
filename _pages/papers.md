@@ -5,7 +5,7 @@ excerpt: "Publications"
 author_profile: true
 ---
 ## [Tverrspråklig innflytelse fra L1 i tilegnelsen av argumentplassering i L2 norsk og svensk](http://ojs.novus.no/index.php/NLT/article/view/1966/1935)
-Westendorp, Maud & Björn Lundquist. 2021. "Tverrspråklig innflytelse fra L1 i tilegnelsen av argumentplassering i L2 norsk og svensk." ("Cross-linguistic influence from L1 in the acquisition of argument placement in L2 Norwegian and Swedish") *Norsk Lingvistisk Tidsskrift (NLT)* 39: 13–40. 
+Westendorp, Maud & Björn Lundquist. 2021. "Tverrspråklig innflytelse fra L1 i tilegnelsen av argumentplassering i L2 norsk og svensk." ("Cross-linguistic influence from L1 in the acquisition of argument placement in L2 Norwegian and Swedish.") *Norsk Lingvistisk Tidsskrift (NLT)* 39: 13–40. 
 
 This article presents the results of three experiments (judgements and production) that test subject and direct object placement in second language learners of Norwegian and Swedish. We find that placement of NP-subjects in Norwegian and Swedish is especially difficult for L2 speakers. Our results further show that L1 plays a major role in the patterns we find in the L2: L2 learners expect argument placement to be governed by the same factors in their second, as in their first language.
 
@@ -18,7 +18,7 @@ I present data from the Nordic Word order Database (NWD) on word order in Faroes
     
     
     
-## [Code-switching alone cannot explain intraspeaker syntactic variability: Evidence from a spoken elicitation experiment.](https://doi.org/10.1017/S0332586520000190)
+## [Code-switching alone cannot explain intraspeaker syntactic variability: Evidence from a spoken elicitation experiment](https://doi.org/10.1017/S0332586520000190)
 Lundquist, Björn, Maud Westendorp, & Bror-Magnus S. Strand. 2020. "Code-switching alone cannot explain intraspeaker syntactic variability: Evidence from a spoken elicitation experiment." *Nordic Journal of Linguistics*, 43(3), 249-287. [https://doi.org/10.1017/S0332586520000190](https://doi.org/10.1017/S0332586520000190)  
   
 In this paper we investigate the role of register/dialect mixing in accounting for syntactic variation within speakers.  
