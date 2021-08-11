@@ -9,6 +9,6 @@ maud.westendorp [at] uit.no
   
 Centre for Advanced Study in Theoretical Linguistics (CASTL)  
 UiT The Arctic University of Norway  
-Teorifagbygget-H4, office 4.363  
+Breiviklia, office N202   
 Postboks 6050 Langnes  
 9037 Tromsø  
