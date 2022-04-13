@@ -4,6 +4,22 @@ title: "Publications"
 excerpt: "Publications"
 author_profile: true
 ---
+## [Variable verb second in Norwegian main and embedded clauses](https://doi.org/10.5617/nals.9423)
+Maud Westendorp. 2021. "Variable verb second in Norwegian main and embedded clauses." *Nordic Atlas of Language Structures (NALS) Journal*
+6(1): 1–48.
+
+This article presents the results of a set of elicited production experiments that test verb placement in main and embedded clauses in Norwegian. The distribution of deviations from the standard V2-pattern, and the constraints on the environments where these are produced are discussed.
+
+
+
+## [Verb placement variation in Swedish and Danish](https://doi.org/10.5617/nals.9425)
+Maud Westendorp. 2021. "Verb placement variation in Swedish and Danish." *Nordic Atlas of Language Structures (NALS) Journal*
+6(1): 49-72.
+
+This article gives a summary of the Swedish and Danish data on verb placement in the Nordic Word order Database (NWD; Lundquist et al. 2019). The Swedish and Danish results are discussed in direct comparison to the verb placement patterns observed in the other North Germanic languages covered in the NWD.
+
+
+
 ## [Tverrspråklig innflytelse fra L1 i tilegnelsen av argumentplassering i L2 norsk og svensk](http://ojs.novus.no/index.php/NLT/article/view/1966/1935)
 Westendorp, Maud & Björn Lundquist. 2021. "Tverrspråklig innflytelse fra L1 i tilegnelsen av argumentplassering i L2 norsk og svensk." ("Cross-linguistic influence from L1 in the acquisition of argument placement in L2 Norwegian and Swedish.") *Norsk Lingvistisk Tidsskrift (NLT)* 39: 13–40. 
 
