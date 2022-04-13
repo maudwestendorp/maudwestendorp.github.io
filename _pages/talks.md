@@ -4,6 +4,9 @@ title: "Talks and presentations"
 excerpt: "Talks"
 author_profile: true
 ---
+### 2022
+- **Maud Westendorp** and Øystein A. Vangsnes. ‘Ordstillingsvariasjon i hv-spørsm ål i sognem ål: syntaktiske og prosodiske faktorer’. [Gramino
+3: Grammatik i Norden](https://nors.ku.dk/kalender/2022/gramino-3/), June 9–10.
 
 ### 2021
 - **Maud Westendorp**. ‘Deviations from asymmetric V2 in Norwegian: code-switching or variable rules?’. [5th Norwegian Graduate Student Conference in Linguistics and Philology](https://noslip-2021.jimdosite.com), March 11-12 2021. [[slides]](https://www.dropbox.com/s/l51cz9a3p7q0cdv/NoSLiP_VariableRules.pdf?dl=0)    
