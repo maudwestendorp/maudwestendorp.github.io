@@ -4,8 +4,12 @@ title: "Talks and presentations"
 excerpt: "Talks"
 author_profile: true
 ---
-### 2022
-- **Maud Westendorp** and Øystein A. Vangsnes. ‘Ordstillingsvariasjon i hv-spørsm ål i sognem ål: syntaktiske og prosodiske faktorer’. [Gramino
+### 2023
+- Björn Lundquist, **Maud Westendorp**, Anya Vinichenko and Øystein A. Vangsnes. ‘Is reading the same as translation for young multi-lectal speakers?’. [Human Sentence Processing 2023](https://nors.ku.dk/kalender/2022/gramino-3/](https://lrdc.pitt.edu/HSP2023/), March 9–11.
+
+### 2022  
+- **Maud Westendorp** and Øystein A. Vangsnes. ‘Ordstillingsvariasjon i hv-spørsmål i sognemål: syntaktiske og prosodiske faktorer’. [Tolvte nordiske dialektologkonferansen](https://nors.ku.dk/kalender/2022/gramino-3/](https://uit.no/tavla/artikkel/730114/tolvte_nordiske_dialektologkonferansen), August 15-17.
+- **Maud Westendorp** and Øystein A. Vangsnes. ‘Ordstillingsvariasjon i hv-spørsmål i sognemål: syntaktiske og prosodiske faktorer’. [Gramino
 3: Grammatik i Norden](https://nors.ku.dk/kalender/2022/gramino-3/), June 9–10.
 
 ### 2021
