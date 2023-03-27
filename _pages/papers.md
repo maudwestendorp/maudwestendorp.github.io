@@ -4,6 +4,13 @@ title: "Publications"
 excerpt: "Publications"
 author_profile: true
 ---
+## [The distribution of main and embedded structures: V2 and non-V2 orders in North Germanic](https://hdl.handle.net/10037/24398)
+Maud Westendorp. 2022. "The distribution of main and embedded structures: V2 and non-V2 orders in North Germanic." *Doctoral dissertation UiT The Arctic University of Tromsø.*
+
+This dissertation contains four articles and a introductory and summarising chapter. I successfully defended it on March 30, 2022.
+
+
+
 ## [Variable verb second in Norwegian main and embedded clauses](https://doi.org/10.5617/nals.9423)
 Maud Westendorp. 2021. "Variable verb second in Norwegian main and embedded clauses." *Nordic Atlas of Language Structures (NALS) Journal*
 6(1): 1–48.
