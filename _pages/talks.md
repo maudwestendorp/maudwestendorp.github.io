@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### 2023
 - Björn Lundquist, **Maud Westendorp**, Anya Vinichenko and Øystein A. Vangsnes. ‘Is reading the same as translation for young multi-lectal speakers?’. [Human Sentence Processing 2023](https://lrdc.pitt.edu/HSP2023/), March 9–11.
-- **Maud Westendorp**. ‘Non-V2 wh-questions and other V2-deviations in Norwegian: rethinking the North Germanic CP’. [Invited talk at workshop "V2, or not V2, that is the question: On verb placement in interrogatives](https://sites.google.com/view/uncovering-v2-effects/home/V2ornotV2), March 16-17.
+- **Maud Westendorp**. ‘Non-V2 wh-questions and other V2-deviations in Norwegian: rethinking the North Germanic CP’. [Invited talk at workshop "V2, or not V2, that is the question: On verb placement in interrogatives](https://sites.google.com/view/uncovering-v2-effects/home/V2ornotV2), June 8-9.
   
 ### 2022  
 - **Maud Westendorp** and Øystein A. Vangsnes. ‘Ordstillingsvariasjon i hv-spørsmål i sognemål: syntaktiske og prosodiske faktorer’. [Tolvte nordiske dialektologkonferansen](https://uit.no/tavla/artikkel/730114/tolvte_nordiske_dialektologkonferansen), August 15-17.
