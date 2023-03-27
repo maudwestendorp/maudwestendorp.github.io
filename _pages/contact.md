@@ -7,7 +7,7 @@ author_profile: true
 
 maud.westendorp [at] uit.no  
   
-Centre for Advanced Study in Theoretical Linguistics (CASTL)  
+Aurora Center for Language Acquisition, Variation & Attrition
 UiT The Arctic University of Norway  
 SVHUM A2034  
 Postboks 6050 Langnes  
