@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maud Westendorp"
 title_separator          : "-"
 name                     : &name "Maud Westendorp"
-description              : &description "Linguistics PhD at UiT Tromsø"
+description              : &description "Postdoc in Linguistics at UiT Tromsø"
 url                      : https://maudwestendorp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maudwestendorp/maudwestendorp.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Maud Westendorp"
   avatar           : "foto2020-smaller.jpg"
   bio              : "Postdoc in Linguistics at UiT The Arctic University of Norway, interested in syntactic variation and change."
-  location         : "Tromsø, Norway"
+  location         : "Trondheim, Norway"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=agpSXJ8AAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "maudwestendorp"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
