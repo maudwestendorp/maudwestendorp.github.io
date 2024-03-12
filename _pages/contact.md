@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 maud.westendorp [at] uit.no  
-  
-Aurora Center for Language Acquisition, Variation & Attrition 
+
+2023-2024: Guest researcher at NTNU Trondheim (campus Dragvoll)
+
+Center for Language, Brain and Learning (C-LaBL)
 UiT The Arctic University of Norway  
-SVHUM A2034  
 Postboks 6050 Langnes  
 9037 Tromsø  
