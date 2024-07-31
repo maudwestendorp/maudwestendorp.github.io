@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ### 2024
-- Anya Vinichenko, **Maud Westendorp** and Björn Lundquist. ‘Mapping written and spoken varieties of Norwegian in the minds of Norwegian adolescents’. [ICLaVE|12 -- 12th International Conference on Language Variation in Europe][https://iclave12.dioe.at/], July 8-11.
-- **Maud Westendorp** and Björn Lundquist. ‘A symmetric account of asymmetric V2’. [Microvariation and microchange in the Scandinavian languages][https://synergylinguistics.wordpress.com/conference-microvariation-and-microchange-in-the-scandinavian-languages/], May 14-16.
+- Anya Vinichenko, **Maud Westendorp** and Björn Lundquist. ‘Mapping written and spoken varieties of Norwegian in the minds of Norwegian adolescents’. [ICLaVE|12 -- 12th International Conference on Language Variation in Europe](https://iclave12.dioe.at/), July 8-11.
+- **Maud Westendorp** and Björn Lundquist. ‘A symmetric account of asymmetric V2’. [Microvariation and microchange in the Scandinavian languages](https://synergylinguistics.wordpress.com/conference-microvariation-and-microchange-in-the-scandinavian-languages/), May 14-16.
 
 ### 2023
-- [invited] **Maud Westendorp**. ‘Non-V2 wh-questions and other V2-deviations in Norwegian: rethinking the North Germanic CP’. [V2, or not V2, that is the question: On verb placement in interrogatives][https://sites.google.com/view/uncovering-v2-effects/V2-Workshop], IKER-CNRS and Universität Konstanz. June 7-8.
+- [invited] **Maud Westendorp**. ‘Non-V2 wh-questions and other V2-deviations in Norwegian: rethinking the North Germanic CP’. [V2, or not V2, that is the question: On verb placement in interrogatives](https://sites.google.com/view/uncovering-v2-effects/V2-Workshop), IKER-CNRS and Universität Konstanz. June 7-8.
 - Björn Lundquist, **Maud Westendorp**, Anya Vinichenko and Øystein A. Vangsnes. ‘Is reading the same as translation for young multi-lectal speakers?’. [Human Sentence Processing 2023](https://lrdc.pitt.edu/HSP2023/), March 9–11.
   
 ### 2022  
