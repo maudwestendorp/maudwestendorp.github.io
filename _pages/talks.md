@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2024
-- Anya Vinichenko, **Maud Westendorp** and Björn Lundquist. ‘Mapping written and spoken varieties of Norwegian in the minds of Norwegian adolescents’. [ICLaVE|12 -- 12th International Conference on Language Variation in Europe](https://iclave12.dioe.at/), July 8-11.
+- Anya Vinichenko, **Maud Westendorp** and Björn Lundquist. ‘Mapping written and spoken varieties of Norwegian in the minds of Norwegian adolescents’. [ICLaVE12 -- 12th International Conference on Language Variation in Europe](https://iclave12.dioe.at/), July 8-11.
 - **Maud Westendorp** and Björn Lundquist. ‘A symmetric account of asymmetric V2’. [Microvariation and microchange in the Scandinavian languages](https://synergylinguistics.wordpress.com/conference-microvariation-and-microchange-in-the-scandinavian-languages/), May 14-16.
 
 ### 2023
