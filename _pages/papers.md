@@ -4,6 +4,14 @@ title: "Publications"
 excerpt: "Publications"
 author_profile: true
 ---
+## [Nordic word order](https://doi.org/10.5617/nals.12139)
+Ida Larsson & Maud Westendorp. 2024. "Nordic Word order." *Nordic Atlas of Language Structures (NALS) Journal*
+8(1): 1–20.
+
+This article gives an overview of the word order patterns found in the Nordic Word Order Database (NWD), providing maps that illustrate variation in argument placement and verb placement across the North Germanic languages. 
+
+
+
 ## [The distribution of main and embedded structures: V2 and non-V2 orders in North Germanic](https://hdl.handle.net/10037/24398)
 Maud Westendorp. 2022. "The distribution of main and embedded structures: V2 and non-V2 orders in North Germanic." *Doctoral dissertation UiT The Arctic University of Tromsø.*
 
